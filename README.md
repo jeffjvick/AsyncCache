@@ -1,3 +1,6 @@
 # AsyncCache
 
-A description of this package.
+!work in progress
+
+Easily cache any kind of data acquired asynchronously. 
+
